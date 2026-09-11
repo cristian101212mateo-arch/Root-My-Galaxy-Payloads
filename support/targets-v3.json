@@ -355,7 +355,7 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app.so",
-        "size": 141424
+        "size": 139560
       },
       "kernelsu": {
   "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A556BXXSBCYK2-kdp",
