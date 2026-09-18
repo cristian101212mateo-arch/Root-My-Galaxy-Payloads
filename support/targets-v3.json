@@ -431,12 +431,12 @@
     },
     {
       "payloadId": "a55x-A556EXXSDCZB5",
-      "displayName": "Galaxy A55 5G | Kernel 6.1.119",
+      "displayName": "Galaxy A55 5G | Kernel 6.1.138",
       "models": [
         "SM-A556E"
       ],
       "kernelVersions": [
-        "6.1.119"
+        "6.1.138"
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app.so",
@@ -451,12 +451,12 @@
   "targets": [
     {
       "payloadId": "a55x-A556EXXSDCZB5",
-      "displayName": "Galaxy A55 5G | Kernel 6.1.119",
+      "displayName": "Galaxy A55 5G | Kernel 6.1.138",
       "models": [
         "SM-A556E"
       ],
       "kernelVersions": [
-        "6.1.119"
+        "6.1.138"
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app.so",
