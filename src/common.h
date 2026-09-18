@@ -129,7 +129,7 @@
 #define PIPE_DRAIN_SLABS 15
 #endif
 #ifndef PIPE_RECLAIM_SLABS
-#define PIPE_RECLAIM_SLABS 15
+#define PIPE_RECLAIM_SLABS 20
 #endif
 #define PIPE_DRAIN (PIPE_OBJS_PER_SLAB * PIPE_DRAIN_SLABS)
 #define PIPE_RECLAIM (PIPE_OBJS_PER_SLAB * PIPE_RECLAIM_SLABS)
@@ -467,6 +467,7 @@ int pipe_write64(int fd, uintptr_t direct_addr, uint64_t value);
 int install_pipe_physrw(int fd);
 #if defined(APP_PHYS_P0_ORACLE) && APP_PHYS_P0_ORACLE
 int prepare_p0_pipe_oracle(void);
+uintptr_t find_init_mm(int fd);
 int expand_p0_pipe_oracle(void);
 int verify_p0_pipe_oracle_gate(void);
 int verify_p0_pipe_data_page(uintptr_t target, uint64_t expected);

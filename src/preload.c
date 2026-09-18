@@ -138,7 +138,7 @@ __attribute__((constructor)) static void load(void) {
   if (p0_attempt_timeout_sec > attempt_timeout_sec) {
     p0_attempt_timeout_sec = attempt_timeout_sec;
   }
-  if (getenv("SLIDE_ONLY")) {
+  if (0) {
     max_attempts = 1;
   }
 
