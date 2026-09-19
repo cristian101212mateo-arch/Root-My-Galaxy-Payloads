@@ -41,11 +41,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S938NKSUACZF1/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -59,11 +59,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/pa2q-S9360ZCSCCZG1/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -77,11 +77,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/psq-S9370ZCS9CZG1/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -96,11 +96,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966USQU9BZDN/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -114,11 +114,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966USQSBBZG3/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -132,11 +132,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966BXXSBBZG3/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -151,11 +151,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928USQS6DZF2/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S928USQS6DZF2-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -169,11 +169,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928BXXS6DZF2/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S928BXXS6DZF2-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -188,11 +188,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e2s-S926BXXUEDZDR/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -207,11 +207,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921BXXSFDZE1/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921BXXSFDZE1-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -226,11 +226,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556BXXSBCYK2/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A556BXXSBCYK2-kdp",
-        "size": 4785000
+        "size": 4785000NUEVO_TAMAÑO
       }
     },
     {
@@ -249,11 +249,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/essi-A566EXXSCCZG6/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A566EXXSCCZG6-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -267,11 +267,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A366WVLS3AYG1-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -286,11 +286,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S918BXXSAFZF5/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm3q-S918BXXSAFZF5-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -305,11 +305,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a53x-A536EXXSNGZG3/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A536EXXSNGZG3-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -328,11 +328,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S9180ZHS8FZF5/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm3q-S9180ZHS8FZF5-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -347,11 +347,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921NKSSFDZF3/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921NKSSFDZF3-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -365,11 +365,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm1q-S911U1UES6DYI3/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm1q-S911U1UES6DYI3-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -384,11 +384,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/r12s-S721BXXSCDZF3/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-r12s-S721BXXSCDZF3-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -403,11 +403,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/gts9-X710XXS6EZF1/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-gts9-X710XXS6EZF1-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -422,11 +422,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S9280ZCS6DZF2/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S9280ZCS6DZF2-kdp",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       }
     },
     {
@@ -441,11 +441,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A556BXXSBCYK2-kdp",
-        "size": 4785000
+        "size": 4785000NUEVO_TAMAÑO
       }
     }
   ],
@@ -462,11 +462,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app-v2.so",
-        "size": 141872
+        "size": NUEVO_TAMAÑO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A556BXXSBCYK2-kdp",
-        "size": 4785000
+        "size": 4785000NUEVO_TAMAÑO
       }
     }
   ]
