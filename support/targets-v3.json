@@ -40,7 +40,7 @@
         "6.6.98"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S938NKSUACZF1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S938NKSUACZF1/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -58,7 +58,7 @@
         "6.6.98"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/pa2q-S9360ZCSCCZG1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/pa2q-S9360ZCSCCZG1/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -76,7 +76,7 @@
         "6.6.98"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/psq-S9370ZCS9CZG1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/psq-S9370ZCS9CZG1/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -95,7 +95,7 @@
         "6.6.98"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966USQU9BZDN/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966USQU9BZDN/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -113,7 +113,7 @@
         "6.6.98"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966USQSBBZG3/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966USQSBBZG3/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -131,7 +131,7 @@
         "6.6.98"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966BXXSBBZG3/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966BXXSBBZG3/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -150,7 +150,7 @@
         "6.1.145"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928USQS6DZF2/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928USQS6DZF2/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -168,7 +168,7 @@
         "6.1.145"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928BXXS6DZF2/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928BXXS6DZF2/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -187,7 +187,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e2s-S926BXXUEDZDR/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e2s-S926BXXUEDZDR/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -206,7 +206,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921BXXSFDZE1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921BXXSFDZE1/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -225,7 +225,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556BXXSBCYK2/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556BXXSBCYK2/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -248,7 +248,7 @@
         "6.6.102"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/essi-A566EXXSCCZG6/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/essi-A566EXXSCCZG6/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -266,7 +266,7 @@
         "6.6.46"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -285,7 +285,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S918BXXSAFZF5/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S918BXXSAFZF5/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -304,7 +304,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a53x-A536EXXSNGZG3/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/a53x-A536EXXSNGZG3/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -327,7 +327,7 @@
         "5.15.189"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S9180ZHS8FZF5/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S9180ZHS8FZF5/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -346,7 +346,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921NKSSFDZF3/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921NKSSFDZF3/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -364,7 +364,7 @@
         "5.15.153"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm1q-S911U1UES6DYI3/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/dm1q-S911U1UES6DYI3/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -383,7 +383,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/r12s-S721BXXSCDZF3/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/r12s-S721BXXSCDZF3/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -402,7 +402,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/gts9-X710XXS6EZF1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/gts9-X710XXS6EZF1/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -421,7 +421,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S9280ZCS6DZF2/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/axolot33l/Root-My-Galaxy-Payloads/main/artifacts/e3q-S9280ZCS6DZF2/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -440,7 +440,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
@@ -461,7 +461,7 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXSDCZB5/cve-2026-43499-app-v2.so",
         "size": 141872
       },
       "kernelsu": {
