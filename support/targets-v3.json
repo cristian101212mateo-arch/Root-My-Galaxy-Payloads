@@ -190,7 +190,7 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/adrielGGmotion/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXUEDZE4/cve-2026-43499-app.so",
-        "size": 104128
+        "size": 142136
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/adrielGGmotion/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A556EXXUEDZE4-kdp",
