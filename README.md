@@ -105,3 +105,4 @@ The SM-S9280 China (CHC) DZF2 port and validation record is in
 [`docs/SM-S9280-S9280ZCS6DZF2.md`](docs/SM-S9280-S9280ZCS6DZF2.md).
 
 Use only on devices you own or are explicitly authorized to test.
+Credits Adriel 
