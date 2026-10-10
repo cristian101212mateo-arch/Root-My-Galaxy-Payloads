@@ -186,7 +186,7 @@
       "payloadId": "a55x-A556EXXUEDZE4",
       "displayName": "Galaxy A55 5G | Kernel 6.1.157",
       "models": ["SM-A556E"],
-      "kernelVersions": ["6.1.157"],
+      "kernelVersions": ["6.1.157", "6.1.157-android14-11"],
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/cristian101212mateo-arch/Root-My-Galaxy-Payloads/main/artifacts/a55x-A556EXXUEDZE4/cve-2026-43499-app.so",
